@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -28,6 +29,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/Downloads/ikbo0219-master/practiceTask16 - Azarov/src/ru/mirea/pr16" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Pr16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,10 +56,68 @@
       <option name="presentableId" value="Default" />
       <updated>1608373053239</updated>
       <workItem from="1608373055875" duration="552000" />
+      <workItem from="1608556689230" duration="3476000" />
+      <workItem from="1608568452478" duration="1726000" />
+      <workItem from="1608581928353" duration="2743000" />
+      <workItem from="1608622337448" duration="12427000" />
+      <workItem from="1608661015143" duration="5526000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1608666487922">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="285" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1608666487922" />
+    <state x="224" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608664188375">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="224" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1608664188375" />
+    <state x="260" y="283" key="FileChooserDialogImpl" timestamp="1608561673697">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="260" y="283" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1608561673697" />
+    <state width="928" height="462" key="GridCell.Tab.0.bottom" timestamp="1608666945705">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="928" height="462" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1608666945705" />
+    <state width="928" height="462" key="GridCell.Tab.0.center" timestamp="1608666945705">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="928" height="462" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1608666945705" />
+    <state width="928" height="462" key="GridCell.Tab.0.left" timestamp="1608666945704">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="928" height="462" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1608666945704" />
+    <state width="928" height="462" key="GridCell.Tab.0.right" timestamp="1608666945705">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="928" height="462" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1608666945705" />
+    <state width="928" height="462" key="GridCell.Tab.1.bottom" timestamp="1608666945705">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="928" height="462" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1608666945705" />
+    <state width="928" height="462" key="GridCell.Tab.1.center" timestamp="1608666945705">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="928" height="462" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1608666945705" />
+    <state width="928" height="462" key="GridCell.Tab.1.left" timestamp="1608666945705">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="928" height="462" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1608666945705" />
+    <state width="928" height="462" key="GridCell.Tab.1.right" timestamp="1608666945705">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="928" height="462" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1608666945705" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="list.head.head" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

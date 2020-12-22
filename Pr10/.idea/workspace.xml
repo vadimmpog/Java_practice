@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/Downloads/ikbo0219-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -60,6 +60,7 @@
       <workItem from="1608405594547" duration="1197000" />
       <workItem from="1608409843820" duration="1095000" />
       <workItem from="1608453779229" duration="68000" />
+      <workItem from="1608544577974" duration="17000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,25 @@
 public class Shirt {
-    
+    private String series;
+    private String name;
+    private String color;
+    private String size;
 
+    public Shirt(String s) {
+        String[] m =  s.split(",");
+        series = m[0];
+        name = m[1];
+        color = m[2];
+        size = m[3];
+    }
+
+    @Override
+    public String toString() {
+        return "Рубашка:\n" +
+                "серия - " + series + '\n' +
+                "название - " + name + '\n' +
+                "цвет - " + color + '\n' +
+                "размер - " + size + '\n';
+    }
 
     public static void main(String[] args) {
         String[] shirts = new String[11];
@@ -15,5 +34,13 @@ public class Shirt {
         shirts[8] = "S009,Green T-Shirt,Green,S";
         shirts[9] = "S010,Orange T-Shirt,Orange,S";
         shirts[10] = "S011,Maroon Polo Shirt,Maroon,S";
+        Shirt[] shs = new Shirt[11];
+        for (int i = 0; i < 11; ++i){
+            shs[i] = new Shirt(shirts[i]);
+        }
+
+        for (Shirt sh : shs){
+            System.out.println(sh);
+        }
     }
 }
